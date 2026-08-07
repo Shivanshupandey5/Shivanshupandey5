@@ -1,3 +1,7 @@
+
+![snake gif](https://github.com/Shivanshupandey5/Shivanshupandey5/blob/output/github-snake-dark.svg)
+
+
 # 💫 About Me:
 Hi, I'm Shivanshu Pandey 👋<br><br>I am an aspiring Software Engineer and Full-Stack Developer focused on building practical web applications and improving my problem-solving skills.<br><br>🎓 Computer Science student<br>💻 Learning Full-Stack Web Development<br>🌱 Currently working with React, Node.js, Express.js, and MongoDB<br>🚀 Building JobMatchAI, an AI-powered job and resume matching platform<br>🧠 Practising Data Structures and Algorithms using Java<br>🤖 Interested in Artificial Intelligence and automation<br>🎯 Goal: Become a professional Software Engineer and contribute to impactful technology products<br>🤝 Open to internships, collaborations, and open-source opportunities
 
